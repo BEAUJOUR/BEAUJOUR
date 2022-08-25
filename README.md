@@ -2,7 +2,7 @@
 - 👀 Je suis intesser par  le developpement web
 - 🌱 Actuelement je suis en formation  developement  web ingenieur full-stack
 - 💞️Je cherche à collaborer sur html, css, javascript.
-- 📫 commen me joindre: beaujourbicool@gmail.com
+- 📫 comment me joindre: beaujourbicool@gmail.com
 
 <!---
 BEAUJOUR/BEAUJOUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
