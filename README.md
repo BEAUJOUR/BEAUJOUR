@@ -1,6 +1,6 @@
 - 👋 Hello je suis @BEAUJOUR
-- 👀 Je suis intesser par  le developpement web
-- 🌱 Actuelement je suis en formation  developement  web ingenieur full-stack
+- 👀 Je suis intéresser par  le développement web
+- 🌱 Actuelement je suis en formation dévelopement web en autodidacte
 - 💞️Je cherche à collaborer sur html, css, javascript.
 - 📫 comment me joindre: beaujourbicool@gmail.com
 
